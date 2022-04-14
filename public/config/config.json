@@ -10,7 +10,7 @@
   "SYMBOL": "MW",
   "MAX_SUPPLY": 3000,
   "WEI_COST": 30000000000000000,
-  "DISPLAY_COST": 0.03,
+  "DISPLAY_COST": 0.00,
   "GAS_LIMIT": 95000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/meekoworld",
